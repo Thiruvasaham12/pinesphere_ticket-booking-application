@@ -2,6 +2,7 @@ Ticket Booking Application
 A simplified Movie & Event Ticket Booking System built using modern full-stack technologies.This project demonstrates real-world concepts like authentication, seat booking, caching, background jobs, and admin management.
 
 Tech Stack
+
 🔹 Backend
 FastAPI — API framework
 
