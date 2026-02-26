@@ -87,21 +87,37 @@ Control available shows
 
 🧩 Project Structure
 ticket-booking-app/
+
 │
+
 ├── backend/
+
 │   ├── app/
+
 │   │   ├── api/
+
 │   │   ├── models/
+
 │   │   ├── schemas/
+
 │   │   ├── services/
+
 │   │   ├── core/
+
 │   │   └── tasks.py
+
 │   └── main.py
+
 │
+
 └── frontend/
+
     └── src/
+
         ├── components/
+        
         ├── pages/
+        
         └── services/
 ⚙️ Setup Instructions
 🔹 Backend Setup
